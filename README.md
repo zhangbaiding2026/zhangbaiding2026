@@ -1,6 +1,6 @@
 # Hi, I'm Xun 👋
 
-🎓 **Student** based in the Greater Los Angeles Area, CA  
+🎓 **Student** based in the Los Angeles, CA  
 💻 Passionate about Windows, Linux, Python, and practical software applications, quickbook
 
 ---
