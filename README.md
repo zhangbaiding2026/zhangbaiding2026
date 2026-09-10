@@ -1,4 +1,4 @@
-# Hi, I'm Xun 👋
+# Hiiiiii, I'm Xun 👋
 
 🎓 **Student** based in the Los Angeles, CA  
 💻 Passionate about Windows, Linux, Python, and practical software applications, quickbook
